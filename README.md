@@ -164,7 +164,12 @@ if (i + 1) % 100 == 0:
             plt.axis("off")
             plt.show()
 
-    
+## Google collab link:
+https://colab.research.google.com/drive/1_gLUp1Rc0L0qYZn4qIphLhczScHbaEFs#scrollTo=jTE9yq3jI0V3
+
+
+## Conclusion:
+Thus successfully implemented and trained a GAN that learns to generate realistic CIFAR-10 images through adversarial training.
 
 
 ## Conclusion:
